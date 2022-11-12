@@ -1,0 +1,43 @@
+
+
+a:active{
+  background-color: #42f542;
+  color: #42e0f5;
+}
+
+a:hover{
+  background-color: #f542ec;
+  color:#eff542;
+}
+
+body{
+    background-image:  url("https://media.istockphoto.com/id/1035676256/photo/background-of-galaxy-and-stars.jpg?s=612x612&w=0&k=20&c=dh7eWJ6ovqnQZ9QwQQlq2wxqmAR7mgRlQTgaIylgBwc=");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+/*
+h1, a, p{
+  color:white;
+}
+*/
+*{
+  color: white;
+}
+h1:first-letter{
+  font-size: 2em;
+}
+a[target="_blank"]{
+  background-color:#42f5bc;
+  color:#4290f5;
+}
+
+
+li:first-child{
+  font-size: 2em;
+}
+
+img{
+  width:40%;
+  margin: 30px;
+  
+}
